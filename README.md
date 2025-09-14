@@ -12,7 +12,7 @@ El proyecto está desarrollado con **Spring Boot 3**, **Thymeleaf** y **Bootstra
 - Interfaz responsiva y moderna usando Bootstrap.
 - Datos persistentes en `usuario.json`.
 
----
+
 
 ## Tecnologías
 - Java 24
