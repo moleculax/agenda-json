@@ -59,5 +59,5 @@ El proyecto no requiere base de datos, todos los datos se almacenan en un JSON l
 Se puede mejorar añadiendo validaciones, eliminación de usuarios y edición de registros.
 
 ## Autor
-# Emilio J. Gomez
+ Emilio J. Gomez
 Proyecto realizado como ejemplo de integración de Spring Boot, Thymeleaf y Bootstrap.
