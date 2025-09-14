@@ -1,24 +1,24 @@
 [ {
   "nombre" : "PEPE LEPON",
   "rol" : "ADMIN",
-  "pais" : "ARGENTINA",
-  "estado" : "CABA",
+  "pais" : "VENEZUELA",
+  "estado" : "SUCRE",
   "email" : "pepin@mail.com",
   "anioIngreso" : 2010,
   "experiencia" : "NINGUNA"
 }, {
   "nombre" : "LUPE LEPON",
   "rol" : "USERS",
-  "pais" : "ARGENTINA",
-  "estado" : "CORDOBA",
+  "pais" : "VENEZUELA",
+  "estado" : "ANZOATEGUI",
   "email" : "lupe@mail.com",
   "anioIngreso" : 2020,
-  "experiencia" : "TOTAL"
+  "experiencia" : "NINGUNA"
 }, {
   "nombre" : "RUPER LEPON",
   "rol" : "ADMIN",
-  "pais" : "CHILE",
-  "estado" : "CHILECITO",
+  "pais" : "VENEZUELA",
+  "estado" : "CARABOBO",
   "email" : "RUPER@R.COM",
   "anioIngreso" : 2015,
   "experiencia" : "NINGUNA"
