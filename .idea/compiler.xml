@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="NeuroCode" options="-parameters" />
+      <module name="Agenda" options="-parameters" />
     </option>
   </component>
 </project>
