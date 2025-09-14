@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title th:text="${accion} + ' Usuario'">Formulario Usuario</title>
+</head>
+<body>
+<h1 th:text="${accion} + ' Usuario'"></h1>
+<form th:action="@{${accion=='Agregar' ? '/agregar' : '/editar/' + ${usuario.id}}}" th:object="${usuario}" method="post">
+    Nombre: <input type="text" th:field="*{nombre}" /><br/>
+    Rol: <input type="text" th:field="*{rol}" /><br/>
+    País: <input type="text" th:field="*{pais}" /><br/>
+    Estado: <input type="text" th:field="*{estado}" /><br/>
+    Email: <input type="email" th:field="*{email}" /><br/>
+    Año de ingreso: <input type="number" th:field="*{anioIngreso}" /><br/>
+    Experiencia: <input type="text" th:field="*{experiencia}" /><br/>
+    <button type="submit" th:text="${accion}"></button>
+</form>
+<a href="/">⬅ Volver</a>
+</body>
+</html>

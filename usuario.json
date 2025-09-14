@@ -1,0 +1,25 @@
+[ {
+  "nombre" : "PEPE LEPON",
+  "rol" : "ADMIN",
+  "pais" : "ARGENTINA",
+  "estado" : "CABA",
+  "email" : "pepin@mail.com",
+  "anioIngreso" : 2010,
+  "experiencia" : "NINGUNA"
+}, {
+  "nombre" : "LUPE LEPON",
+  "rol" : "USERS",
+  "pais" : "ARGENTINA",
+  "estado" : "CORDOBA",
+  "email" : "lupe@mail.com",
+  "anioIngreso" : 2020,
+  "experiencia" : "TOTAL"
+}, {
+  "nombre" : "RUPER LEPON",
+  "rol" : "ADMIN",
+  "pais" : "CHILE",
+  "estado" : "CHILECITO",
+  "email" : "RUPER@R.COM",
+  "anioIngreso" : 2015,
+  "experiencia" : "NINGUNA"
+} ]
