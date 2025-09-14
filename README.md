@@ -22,6 +22,9 @@ El proyecto está desarrollado con **Spring Boot 3**, **Thymeleaf** y **Bootstra
 - Jackson (para lectura/escritura de JSON)
 
 ---
+## 📷 Captura de pantalla
+
+![Agenda de Usuarios](pantalla.png)
 
 ## Estructura del Proyecto
 
