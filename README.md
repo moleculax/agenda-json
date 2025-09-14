@@ -45,7 +45,7 @@ agenda-json/
 ---
 
 ## Cómo ejecutar el proyecto
-git clone <URL_DEL_REPOSITORIO>
+Clone el proyecto
 cd agenda-json
 mvn clean install
 mvn spring-boot:run
