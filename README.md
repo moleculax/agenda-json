@@ -27,7 +27,7 @@ El proyecto está desarrollado con **Spring Boot 3**, **Thymeleaf** y **Bootstra
 ![Agenda de Usuarios](pantalla.png)
 
 ## Estructura del Proyecto
-
+```text
 agenda-json/
 │
 ├─ src/main/java/com/anamuc/jsonReader/
@@ -43,7 +43,7 @@ agenda-json/
 ├─ usuario.json # Archivo JSON con los usuarios
 ├─ pom.xml # Dependencias Maven
 └─ README.md
-
+```
 
 ---
 
