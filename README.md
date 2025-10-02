@@ -48,11 +48,13 @@ agenda-json/
 ---
 
 ## Cómo ejecutar el proyecto
+```text
 Clone el proyecto
 cd agenda-json
 mvn clean install
 mvn spring-boot:run
 http://localhost:8080/
+```
  # Uso
 Completar el formulario Agregar Usuario y hacer clic en "Agregar Usuario".
 Ver los usuarios registrados en la tabla debajo del formulario.
