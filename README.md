@@ -5,6 +5,11 @@ El proyecto está desarrollado con **Spring Boot 3**, **Thymeleaf** y **Bootstra
 
 ---
 
+![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&logoColor=white)
+![Java](https://img.shields.io/badge/Java-SpringBoot-green?logo=java&logoColor=white)
+
+
+
 ## Características
 
 - Mostrar todos los usuarios registrados en un archivo JSON.
