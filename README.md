@@ -1,6 +1,6 @@
 # Agenda de Usuarios - Spring Boot + Thymeleaf + Bootstrap
 
-📒 Proyecto de ejemplo que permite gestionar una agenda de usuarios almacenada en un archivo JSON.  
+📒 Proyecto  que permite gestionar una agenda de usuarios almacenada en un archivo JSON.  
 El proyecto está desarrollado con **Spring Boot 3**, **Thymeleaf** y **Bootstrap 5** para la interfaz web.
 
 ---
