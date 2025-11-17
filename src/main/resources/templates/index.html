@@ -41,6 +41,11 @@
                 <div class="col-md-6">
                     <label class="form-label">Año de ingreso</label>
                     <input type="number" name="anioIngreso" class="form-control">
+
+                       <div class="col-md-6">
+                    <label class="form-label">Experiencia</label>
+                    <input type="text" name="experiencia" class="form-control">
+                </div>
                 </div>
            
                 <div class="col-12 text-end">
@@ -77,6 +82,7 @@
                         <td th:text="${usuario.estado}"></td>
                         <td th:text="${usuario.email}"></td>
                         <td th:text="${usuario.anioIngreso}"></td>
+                         <td th:text="${usuario.experiencia}"></td>
                        
                     </tr>
                     </tbody>
